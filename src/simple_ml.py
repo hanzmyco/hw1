@@ -8,9 +8,7 @@ except:
 
 
 def add(x, y):
-    """ A trivial 'add' function you should implement to get used to the
-    autograder and submission system.  The solution to this problem is in the
-    the homework notebook.
+    """ A trivial 'add' function you should implement to get used to write code in python.
 
     Args:
         x (Python number or numpy array)
